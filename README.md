@@ -3,10 +3,10 @@
 ## Overview:
 Using data from Yahoo Finance, I created price prediction charts of three individual stocks (EOSE, FLNC, NUAI) from 2022 into 2027. 
 
-## Tools Used
+## Tools Used:
 - Python (pandas, matplotlib, seaborn, Prophet, yfinance)
 
-## Dataset
+## Dataset:
 - Yahoo Finance Public stock data
 
 ## Key Findings:
